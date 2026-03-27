@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://GVezzani.github.io/al-folio/sitemap.xml
+Sitemap: https://GVezzani.github.io/sitemap.xml
