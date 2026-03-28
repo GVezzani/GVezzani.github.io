@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: [gabriele.vezzani@ifaar.rwth-aachen.de](mailto:gabriele.vezzani@ifaar.rwth-aachen.de)
 
 profile:
   align: right
