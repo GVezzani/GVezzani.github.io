@@ -134,7 +134,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("gabrielevezzani.bsky.social", "_blank");
+          window.open("https://bsky.app/profile/gabrielevezzani.bsky.social", "_blank");
         },
       },{
         id: 'social-mastodon',
