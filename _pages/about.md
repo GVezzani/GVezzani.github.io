@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: gabriele.vezzani@ifaar.rwth-aachen.de
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
     <p>Me reading my poems at the PoesiaFestival in Modena, my hometown</p>
 
