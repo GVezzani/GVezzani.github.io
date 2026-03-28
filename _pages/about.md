@@ -20,10 +20,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a researcher in Digital Humanities, currently working as a postdoctoral fellow at the [ACCELS Research Centre](https://www.accels.rwth-aachen.de/go/id/cidrb/?lidx=1) in Aachen. My work focuses on the application of computational methods (**natural language processing**, **machine learning**, **artificial intelligence**, and **network analysis**) to the study of complex cultural phenomena.
