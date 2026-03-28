@@ -123,6 +123,27 @@ ninja.data = [{
           window.open("mailto:%67%61%62%72%69%65%6C%65.%76%65%7A%7A%61%6E%69@%69%66%61%61%72.%72%77%74%68-%61%61%63%68%65%6E.%64%65", "_blank");
         },
       },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/gabriele.vezzani", "_blank");
+        },
+      },{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("gabrielevezzani.bsky.social", "_blank");
+        },
+      },{
+        id: 'social-mastodon',
+        title: 'Mastodon',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://gabrieleV@mastodon.social", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
