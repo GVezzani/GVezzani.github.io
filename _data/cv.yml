@@ -51,7 +51,7 @@ cv:
     Volunteer:
       - company: Umanistica Digitale
         position: Review Editor
-        location:
+        location: Bologna, Italy
         start_date: 2025
         end_date:
         summary:
