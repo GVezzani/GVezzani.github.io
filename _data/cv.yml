@@ -46,16 +46,14 @@ cv:
         location: Aachen, Germany
         start_date: 2024
         end_date: 
-        
 
-    Volunteer:
       - company: Umanistica Digitale
         position: Review Editor
         location: Bologna, Italy
         start_date: 2025
         end_date:
-        summary:
-        highlights:
+     
+
 
     Skills:
       - name: Programming
