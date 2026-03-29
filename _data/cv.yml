@@ -6,18 +6,6 @@ cv:
   image: ""
   summary: Early-career Digital Humanities researcher, specializing in the application of computational methods to the study of complex cultural phenomena.
 
-  social_networks:
-    - network:
-      username:
-
-
-  address:
-    street:
-    city:
-    region:
-    postalCode:
-    countryCode:
-
   sections:
     Education:
       - institution: University of Verona
@@ -69,24 +57,31 @@ cv:
         summary:
         highlights:
 
-
-    Awards:
-      - title:
-        authors:
-        date:
-        awarder:
-        url:
-
     Skills:
       - name: Programming
         level: Advanced
         icon:
-        keywords: "NLP, AI, Machine Learning, Simulation, Network Analysis"
+        keywords: "NLP, AI, Machine Learning, Network Analysis"
 
       - name: Data Scientist
         level: Advanced
         icon:
         keywords: "Statistics, Modelling, Quantitative Methods, Qualitative Methods"
+
+      - name: Social Simulation
+        level: Intermediate
+        icon:
+        keywords: "Agent-Based Modelling, NetLogo"
+
+      - name: Public Speaking
+        level: Advanced
+        icon:
+        keywords:
+
+      - name: Academic Writing
+        level: Advanced
+        icon:
+        keywords:
 
     Languages:
       - name: Italian
@@ -101,8 +96,3 @@ cv:
       - name: German
         summary: "Basic"
 
-    Certificates:
-      - name:
-        date:
-        issuer:
-        icon:
