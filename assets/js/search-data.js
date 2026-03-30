@@ -105,9 +105,9 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-introduction-to-distant-reading",
+          title: 'Introduction to Distant Reading',
+          description: "This course Introduces student to the analytical frameworks and methods of Distant Reading.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals.html";
             },},{id: "teachings-introduction-to-machine-learning",
