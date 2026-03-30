@@ -1,97 +1,48 @@
 ---
 layout: course
-title: Data Science Fundamentals
-description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
-year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+title: Introduction to Distant Reading 
+description: This course Introduces student to the analytical frameworks and methods of Distant Reading. 
+instructor: Dr. Gabriele Vezzani
+year: 2025
+term: Winter
+
 schedule:
   - week: 1
-    date: Feb 5
-    topic: Introduction to Data Science
-    description: Overview of the data science workflow and key concepts.
-    materials:
-      - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
-      - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+    topic: Introduction 
 
   - week: 2
-    date: Feb 12
-    topic: Data Collection and APIs
-    description: Methods for collecting data through APIs, web scraping, and databases.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Digital representation of texts
+    
   - week: 3
-    date: Feb 19
-    topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
-
+    topic: Markup and text encoding
+    
   - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+    topic: Python basics
 
   - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
-
+    topic: Regular expressions
+   
   - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+    topic: Pre-processing prectices
+
+  - week: 7-9
+    topic: Stylometry and Network Analysis for authorship attribution
+
+  - week: 9-11
+    topic: Text Classification and Sentiment Analysis
+
+  - week: 12
+    topic: An overview of available literary corpora
+
+  - week: 13
+    topic: Conclusions
+
 ---
 
 ## Course Overview
 
-This course provides a comprehensive introduction to data science principles and practices. Students will:
+For almost a century now (at least since Tynianov’s reflections on literary evolution), literary theorists have been aware of the possibility of conceptualizing literature as a unitary system, evolving across time as a function of its components’ interactions with each other and with the (social, economic, political) environment they come to inhabit. The scale of the phenomena that such a perspective is concerned with, however, is so vast as to render ineffective classical methodologies of literary inquiry, centered as they are on the close reading of carefully selected and rather small sets of texts. Digital technologies can help to overcome this problem. As many decades of research in the field of digital humanities have demonstrated, by approaching literature computationally we can develop analytical strategies capable of dealing with extremely vast corpora, detecting patterns that would otherwise remain invisible. 
 
-- Learn the end-to-end data science workflow
-- Gain practical experience with data manipulation tools
-- Develop skills in data visualization and communication
-- Apply statistical methods to derive insights from data
+The aim of this course is to familiarize students with computational methodologies for the study of literature. However, to understand how computers can help us analyze literary texts, one first needs to understand how they represent and store textual information. For this reason, the course will include a first module focused on information science. Here, students will learn about the digital representation of texts, while also being introduced to some basic elements of Natural Language Processing (NLP), such as tokenization and the use of regular expressions. Concrete examples will be provided in the form of Google Colab notebooks written in Python. No prior knowledge of the programming language is required. 
 
-## Prerequisites
-
-- Basic programming knowledge (preferably in Python)
-- Introductory statistics
-- Comfort with basic algebra
-
-## Textbooks
-
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
-
-## Grading
-
-- Assignments: 50%
-- Project: 40%
-- Participation: 10%
+The second module will be dedicated to the presentation of some of the main computational tools available for the study of literature, namely stylometry, network analysis and text classification. An explanation of the main mathematical intuitions behind each of these techniques will be followed by a discussion of concrete cases of their use in literary studies. 
