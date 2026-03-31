@@ -95,11 +95,6 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project.html";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project.html";
             },},{id: "teachings-introduction-to-distant-reading",
           title: 'Introduction to Distant Reading',
           description: "This course Introduces student to the analytical frameworks and methods of Distant Reading.",
