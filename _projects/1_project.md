@@ -9,6 +9,7 @@ related_publications: false
 ---
 
 **Project Managers:** Massimo Salgaro, Simone Rebora, Marco Rospocher
+
 **Collaborators:** Ainur Kakimova, Gabriele Vezzani  
 
 ---
