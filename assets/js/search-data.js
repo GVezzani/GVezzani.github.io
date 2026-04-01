@@ -65,6 +65,11 @@ ninja.data = [{
           description: "Rethinking Criticism through Online Reviews",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
+            },},{id: "projects-literary-value-in-the-digital-age",
+          title: 'Literary Value in the Digital Age',
+          description: "Rethinking Criticism through Online Reviews",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project.html";
             },},{id: "teachings-introduction-to-distant-reading",
           title: 'Introduction to Distant Reading',
           description: "This course Introduces student to the analytical frameworks and methods of Distant Reading.",
