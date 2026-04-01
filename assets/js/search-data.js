@@ -65,9 +65,9 @@ ninja.data = [{
           description: "Rethinking Criticism through Online Reviews",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-literary-value-in-the-digital-age",
-          title: 'Literary Value in the Digital Age',
-          description: "Rethinking Criticism through Online Reviews",
+            },},{id: "projects-construct-stats",
+          title: 'Construct STATS',
+          description: "Statistics for linguistics and literary studies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "teachings-introduction-to-distant-reading",
