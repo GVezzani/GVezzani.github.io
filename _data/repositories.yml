@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - GVezzani
+  - SimoneRebora
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - GVezzani/collateral_damage
+  - SimoneRebora/CHR2024
+  - SimoneRebora/Goodreads_postcolonial
+
