@@ -70,11 +70,21 @@ ninja.data = [{
           description: "Statistics for linguistics and literary studies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "teachings-introduction-to-distant-reading",
-          title: 'Introduction to Distant Reading',
-          description: "This course Introduces student to the analytical frameworks and methods of Distant Reading.",
+            },},{id: "teachings-introduction-to-digital-humanitites",
+          title: 'Introduction to Digital Humanitites',
+          description: "In this course, I supervised students as they worked at their first empirical project.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/advanced_empirical_methods.html";
+            },},{id: "teachings-introduction-to-digital-humanitites",
+          title: 'Introduction to Digital Humanitites',
+          description: "This course introduces students to the analytical frameworks and methods of Distant Reading.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/data-science-fundamentals.html";
+            },},{id: "teachings-introduction-to-digital-humanitites",
+          title: 'Introduction to Digital Humanitites',
+          description: "This course introduces students to empirical methods for literary studies and linguistics.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/empirical_methods.html";
             },},{
         id: 'social-email',
         title: 'email',
