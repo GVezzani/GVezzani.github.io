@@ -1,9 +1,9 @@
 ---
 layout: course
 title: Introduction to Digital Humanitites
-description: This course Introduces student to the analytical frameworks and methods of Distant Reading. 
+description: In this course, I supervised students as they worked at their first empirical project. 
 instructor: Dr. Gabriele Vezzani
-year: 2025
+year: 2024
 term: Winter
 
 ---
