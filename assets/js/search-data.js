@@ -75,6 +75,11 @@ ninja.data = [{
           description: "This course introduces students to the analytical frameworks and methods of Distant Reading.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Intro_DH.html";
+            },},{id: "teachings-introduction-to-digital-humanitites",
+          title: 'Introduction to Digital Humanitites',
+          description: "This course introduces students to the analytical frameworks and methods of Distant Reading.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Intro_DH_2.html";
             },},{id: "teachings-advanced-empirical-methods",
           title: 'Advanced Empirical Methods',
           description: "In this course, I supervised students as they worked at their first empirical project.",
