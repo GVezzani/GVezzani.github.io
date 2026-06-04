@@ -80,9 +80,9 @@ ninja.data = [{
           description: "In this course, I supervised students as they worked at their first empirical project.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/advanced_empirical_methods.html";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-seminar-cultural-studies",
+          title: 'Seminar Cultural Studies',
+          description: "The seminar, entitled “A Romantic Utopia: Cultural Genealogy of the Modern Couple,” traces the evolution of cultural paradigms of romantic relationships from the eighteenth to the twentieth century",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cultural_studies.html";
             },},{id: "teachings-empirical-methods",
