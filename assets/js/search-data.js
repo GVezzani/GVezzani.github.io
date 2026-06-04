@@ -72,16 +72,21 @@ ninja.data = [{
               window.location.href = "/projects/2_project.html";
             },},{id: "teachings-introduction-to-digital-humanitites",
           title: 'Introduction to Digital Humanitites',
+          description: "This course introduces students to the analytical frameworks and methods of Distant Reading.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Intro_DH.html";
+            },},{id: "teachings-advanced-empirical-methods",
+          title: 'Advanced Empirical Methods',
           description: "In this course, I supervised students as they worked at their first empirical project.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/advanced_empirical_methods.html";
-            },},{id: "teachings-introduction-to-digital-humanitites",
-          title: 'Introduction to Digital Humanitites',
-          description: "This course introduces students to the analytical frameworks and methods of Distant Reading.",
+            },},{id: "teachings-",
+          title: '',
+          description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals.html";
-            },},{id: "teachings-introduction-to-digital-humanitites",
-          title: 'Introduction to Digital Humanitites',
+              window.location.href = "/teachings/cultural_studies.html";
+            },},{id: "teachings-empirical-methods",
+          title: 'Empirical Methods',
           description: "This course introduces students to empirical methods for literary studies and linguistics.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/empirical_methods.html";
