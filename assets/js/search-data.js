@@ -70,28 +70,28 @@ ninja.data = [{
           description: "Statistics for linguistics and literary studies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "teachings-introduction-to-digital-humanitites",
-          title: 'Introduction to Digital Humanitites',
+            },},{id: "teachings-introduction-to-digital-humanitites-ba",
+          title: 'Introduction to Digital Humanitites (BA)',
           description: "This course introduces students to the analytical frameworks and methods of Distant Reading.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Intro_DH.html";
-            },},{id: "teachings-introduction-to-digital-humanitites",
-          title: 'Introduction to Digital Humanitites',
+            },},{id: "teachings-introduction-to-digital-humanitites-ba",
+          title: 'Introduction to Digital Humanitites (BA)',
           description: "This course introduces students to the analytical frameworks and methods of Distant Reading.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Intro_DH_2.html";
-            },},{id: "teachings-advanced-empirical-methods",
-          title: 'Advanced Empirical Methods',
+            },},{id: "teachings-advanced-empirical-methods-ma",
+          title: 'Advanced Empirical Methods (MA)',
           description: "In this course, I supervised students as they worked at their first empirical project.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/advanced_empirical_methods.html";
-            },},{id: "teachings-seminar-cultural-studies",
-          title: 'Seminar Cultural Studies',
+            },},{id: "teachings-seminar-cultural-studies-ba",
+          title: 'Seminar Cultural Studies (BA)',
           description: "The seminar, entitled “A Romantic Utopia: Cultural Genealogy of the Modern Couple,” traces the evolution of cultural paradigms of romantic relationships from the eighteenth to the twentieth century",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/cultural_studies.html";
-            },},{id: "teachings-empirical-methods",
-          title: 'Empirical Methods',
+            },},{id: "teachings-empirical-methods-ma",
+          title: 'Empirical Methods (MA)',
           description: "This course introduces students to empirical methods for literary studies and linguistics.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/empirical_methods.html";
