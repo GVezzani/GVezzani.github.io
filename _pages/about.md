@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: True # crops the image to make it circular
-  more_info: <p> Me on an expedition to find the bugs in my code </p>
+  more_info: <p> My other research interest: finding the path to the summit (still no good algorithm) </p>
 
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
